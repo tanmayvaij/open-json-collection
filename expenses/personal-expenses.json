@@ -1,1 +1,22 @@
-
+[
+  {
+    "amount": 100,
+    "type": "timepass",
+    "date": "01/01/2024" 
+  },
+  {
+    "amount": -120,
+    "type": "chicken",
+    "date": "01/01/2024" 
+  },
+  {
+    "amount": 750,
+    "type": "timepass",
+    "date": "01/01/2024" 
+  },
+    {
+    "amount": 750,
+    "type": "timepass",
+    "date": "01/01/2024" 
+  },
+]
