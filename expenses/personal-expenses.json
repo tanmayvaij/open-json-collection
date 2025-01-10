@@ -1,22 +1,97 @@
 [
   {
     "amount": 100,
-    "type": "timepass",
-    "date": "01/01/2024" 
+    "type": "miscellaneous-income",
+    "date": "01/01/2025"
   },
   {
     "amount": -120,
-    "type": "chicken",
-    "date": "01/01/2024" 
+    "type": "food-and-dining",
+    "date": "01/01/2025"
   },
   {
     "amount": 750,
-    "type": "timepass",
-    "date": "01/01/2024" 
+    "type": "miscellaneous-income",
+    "date": "01/01/2025"
   },
-    {
-    "amount": 750,
-    "type": "timepass",
-    "date": "01/01/2024" 
+  {
+    "amount": 1000,
+    "type": "miscellaneous-income",
+    "date": "01/01/2025"
   },
+  {
+    "amount": 100,
+    "type": "miscellaneous-income",
+    "date": "01/01/2025"
+  },
+  {
+    "amount": -1000,
+    "type": "investments",
+    "date": "01/01/2025"
+  },
+  {
+    "amount": -300,
+    "type": "transportation",
+    "date": "03/01/2025"
+  },
+  {
+    "amount": -20,
+    "type": "education",
+    "date": "03/01/2025"
+  },
+  {
+    "amount": -126.01,
+    "type": "food-and-dining",
+    "date": "03/01/2025"
+  },
+  {
+    "amount": -90,
+    "type": "food-and-dining",
+    "date": "05/01/2025"
+  },
+  {
+    "amount": -60,
+    "type": "food-and-dining",
+    "date": "05/01/2025"
+  },
+  {
+    "amount": -50,
+    "type": "food-and-dining",
+    "date": "07/01/2025"
+  },
+  {
+    "amount": -280,
+    "type": "food-and-dining",
+    "date": "07/01/2025"
+  },
+  {
+    "amount": -20,
+    "type": "food-and-dining",
+    "date": "07/01/2025"
+  },
+  {
+    "amount": -209,
+    "type": "food-and-dining",
+    "date": "07/01/2025"
+  },
+  {
+    "amount": -300,
+    "type": "transportation",
+    "date": "08/01/2025"
+  },
+  {
+    "amount": -627,
+    "type": "clothing",
+    "date": "09/01/2025"
+  },
+  {
+    "amount": 6000,
+    "type": "salary",
+    "date": "09/01/2025"
+  },
+  {
+    "amount": -28,
+    "type": "food-and-dining",
+    "date": "10/01/2025"
+  }
 ]
